@@ -8,8 +8,8 @@ __version__ = "0.0.0"
 
 REPO_NAME = "GGDD Classifier"
 AUTHOR_USER_NAME = "spy-25"
-SRC_REPO = "cnnClassifier"
-AUTHOR_EMAIL = "entbappy73@gmail.com"
+SRC_REPO = "GGDD Classifier"
+AUTHOR_EMAIL = "akshayabalaram25@gmail.com@gmail.com"
 
 
 setuptools.setup(

@@ -1,6 +1,6 @@
-from cnnClassifier.constants import *
-from cnnClassifier.utils.common import read_yaml, create_directories
-from cnnClassifier.entity.config_entity import DataIngestionConfig
+from GGDDClassifier.constants import *
+from GGDDClassifier.utils.common import read_yaml, create_directories
+from GGDDClassifier.entity.config_entity import DataIngestionConfig
 
 
 class ConfigurationManager:

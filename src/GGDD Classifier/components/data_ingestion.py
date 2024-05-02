@@ -1,9 +1,9 @@
 import os
 import urllib.request as request
 import zipfile
-from cnnClassifier import logger
-from cnnClassifier.utils.common import get_size
-from cnnClassifier.entity.config_entity import DataIngestionConfig
+from GGDDClassifier import logger
+from GGDDClassifier.utils.common import get_size
+from GGDDClassifier.entity.config_entity import DataIngestionConfig
 from pathlib import Path
 
 

@@ -1,6 +1,6 @@
-from cnnClassifier.config.configuration import ConfigurationManager
-from cnnClassifier.components.data_ingestion import DataIngestion
-from cnnClassifier import logger
+from GGDDClassifier.config.configuration import ConfigurationManager
+from GGDDClassifier.components.data_ingestion import DataIngestion
+from GGDDClassifier import logger
 
 STAGE_NAME = "Data Ingestion stage"
 

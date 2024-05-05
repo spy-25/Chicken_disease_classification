@@ -1,4 +1,3 @@
-
 from GGDDClassifier import logger
 from GGDDClassifier.pipeline.stage_01_data_ingestion import DataIngestionTrainingPipeline
 

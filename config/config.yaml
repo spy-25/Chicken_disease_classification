@@ -1,10 +1,7 @@
 artifacts_root: artifacts
 
-
 data_ingestion:
   root_dir: artifacts/data_ingestion
-  source_URL: https://drive.google.com/file/d/1Fy91IbUct7Jv5BqjsTMinN8eY0ThJXQ3/view?usp=sharing
+  source_URL: https://github.com/spy-25/datasets/raw/main/chicken_fecal_images.zip
   local_data_file: artifacts/data_ingestion/data.zip
   unzip_dir: artifacts/data_ingestion
-
-

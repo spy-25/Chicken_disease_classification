@@ -1,7 +1,5 @@
 from src.GGDDClassifier import logger
-
 from GGDDClassifier.pipeline.stage_01_data_ingestion import DataIngestionTrainingPipeline
-
 
 STAGE_NAME = "Data Ingestion stage"
 try:
@@ -12,3 +10,5 @@ try:
 except Exception as e:
         logger.exception(e)
         raise e
+
+

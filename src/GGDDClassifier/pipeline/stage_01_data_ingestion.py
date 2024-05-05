@@ -1,4 +1,4 @@
-from GGDDClassifier.config.configuration import ConfigurationManager
+from src.GGDDClassifier.config.configuration import ConfigurationManager
 from GGDDClassifier.components.data_ingestion import DataIngestion
 from GGDDClassifier import logger
 
